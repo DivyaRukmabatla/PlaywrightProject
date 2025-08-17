@@ -12,7 +12,7 @@ test.only('Assertions in playwright1', async({page}) =>{
     // assert url
     await expect(page).toHaveURL('https://www.google.com/search?q=playwright')
 
-    // assert title
+    // assert title name 
     await expect(page).toHaveTitle('playwright  Google Search')
 
     // assert text

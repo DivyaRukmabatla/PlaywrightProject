@@ -1,5 +1,5 @@
 // Include  module
-const {test, expect} = require('@/test');
+const { test, expect } = require('@playwright/test');
 
 // Write a test
 test('Assertions in ', async({page}) =>{
