@@ -1,0 +1,22 @@
+{
+    "Module1TestData":{
+      "skill1":"playwright",
+        "skill2":"cypress",
+        "skill3":"javascript",
+        "skill4":"postman",
+        "skill5":"rest assured",
+        "skill6":"specflow",
+        "skill7":"easyrepro",
+        "skill8":"api testing"
+    },
+    "qaTestData":{
+        "skill1":"playwright",
+        "skill2":"cypress",
+        "skill3":"javascript",
+        "skill4":"postman",
+        "skill5":"rest assured",
+        "skill6":"specflow",
+        "skill7":"easyrepro",
+        "skill8":"api testing"
+    }
+}
